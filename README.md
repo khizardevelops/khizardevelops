@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @khizardevelops
 - 👀 I'm interested in creating webapps & webdesign
-- 🌱 I’m currently learning css3 & javascript
+- 🌱 Can't belive I’m currently learning the MERN stack 😮‍💨
 - 🔜 Looking to learn tailwind, react.js, and then next.js
 - 💞️ I’m looking to collaborate on nothing as of right special rn, just learning
 - 📫 How to reach me: khizardevelops@gmail.com
